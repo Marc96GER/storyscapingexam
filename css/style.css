@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+
+h2{
+    color: red !important;
+    font-size: 50px !important;
+}
+
+#mygame{
+    width: 50%;
+}
