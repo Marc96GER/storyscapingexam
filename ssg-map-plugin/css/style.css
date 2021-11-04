@@ -1,0 +1,67 @@
+ 
+    
+.st0{fill:#3F5356;}
+.st1{fill:none;stroke:#142F33;stroke-miterlimit:10;}
+.st2{fill:#02380E;}
+.st3{fill:#84AFB8;}
+.st4{fill:#EFC632;}
+.st5{fill:none;}
+.st6{stroke:#FFFFFF;stroke-miterlimit:10;}
+.st7{font-family:'Poppins-BlackItalic';}
+.st8{font-size:33px;}
+
+  
+    .mapdiv{
+        width:50%;
+        margin: auto;
+    }
+    
+    
+.dods{
+    transition: stroke-width 0.3s ease-in;
+    stroke: red;
+    stroke-width: 0;
+    stroke-opacity: 1;
+    fill: pink;
+    pointer-events:all;
+}
+
+    .dods :hover {   
+    stroke-width: 13;
+    fill: red;
+    transition: stroke-width 0.3s ease-out;
+    }
+    
+.city_text{
+    visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.6s linear;
+}
+
+
+   .dod_aarhus:hover + .city_tags_aarhus {
+    visibility: visible;
+    opacity: 1;
+      }
+
+
+
+    .dod_cph:hover + .city_tags_cph {
+        visibility: visible;
+        opacity: 1;
+          }
+
+
+    .dod_horsens:hover + .city_tags_horsens {
+        visibility: visible;
+        opacity: 1;
+              }
+    
+    .dod_aalborg:hover + .city_tags_aalborg {
+        visibility: visible;
+         opacity: 1;
+                      }
+
+
+
+    
