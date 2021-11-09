@@ -4,7 +4,7 @@
  * Description: Explore your city
  * Plugin URI: http://localhost
  * Version 1.0
- * Auther: Magnus Olesen, Amanda Kristena Jakse, Marc Hunsicker
+ * Auther: Magnus Olesen, Amanda Kristena Jakse, Marc Hunsicker, Rokas Belevicius
  * Auther http://localhost
  * License: GPL2
  */
