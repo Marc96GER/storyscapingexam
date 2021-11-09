@@ -4,15 +4,13 @@
  * Description: Explore your city
  * Plugin URI: http://localhost
  * Version 1.0
- * Auther: Magnus Olesen
+ * Auther: Magnus Olesen & Amanda Kristena Jakse
  * Auther http://localhost
  * License: GPL2
  */
 
  function examplefunction(){
-     $mycode = '<h2>Plugin</h2>';
-     $mycode .= '<p>Click here you monkey azzz</p>';
-     $mycode .= '<div class="mapdiv">
+     $mycode = '<div class="mapdiv">
      <?xml version="1.0" encoding="utf-8"?>
 	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 		 viewBox="0 0 600 625" style="enable-background:new 0 0 600 625;" xml:space="preserve">
