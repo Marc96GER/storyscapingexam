@@ -1,0 +1,28 @@
+/*
+ Theme Name:   Astra Child
+ Theme URI:    http://localhost/pluginplay/
+ Description:  Students survival guide child theme
+ Author:       Jeppe
+ Author URI:   http://localhost/pluginplay/
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astra
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins&display=swap');
+
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+p{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+a:link {
+    text-decoration: none !important;
+  }
